@@ -1,0 +1,30 @@
+{
+  "name": "chai-exist",
+  "version": "0.0.0",
+  "description": "Because the new StandardJS doesn't like expressions",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "mocha test/spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diasdavid/chai-exist.git"
+  },
+  "keywords": [
+    "chai",
+    "exist",
+    "standard",
+    "function"
+  ],
+  "author": "David Dias <mail@daviddias.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diasdavid/chai-exist/issues"
+  },
+  "homepage": "https://github.com/diasdavid/chai-exist#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
